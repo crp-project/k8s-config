@@ -112,7 +112,7 @@ unclassified:
   junitTestResultStorage:
     storage: "file"
   location:
-    adminAddress: "address not configured yet <nobody@nowhere>"
+    adminAddress: "crpprjhub@gmail.com"
   mailer:
     charset: "UTF-8"
     useSsl: false
